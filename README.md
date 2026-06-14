@@ -50,8 +50,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=samirahs08&show_icons=true&locale=en&theme=radical" height="160" />
 </p>
 
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/samirahs08/samirahs08/output/snake.svg" />
-</p>
